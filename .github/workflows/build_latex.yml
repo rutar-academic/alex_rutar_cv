@@ -27,7 +27,7 @@ jobs:
           source_file: "${{ github.event.repository.name }}.pdf"
           destination_repo: 'rutar-academic/rutar.org'
           destination_branch: 'master'
-          destination_folder: 'static/papers'
+          destination_folder: 'static'
           user_email: 'alex@rutar.org'
           user_name: 'CI Bot'
           commit_message: "CI bot: paper update from ${{ github.event.repository.name }}"
