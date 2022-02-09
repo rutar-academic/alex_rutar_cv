@@ -1,0 +1,4 @@
+[github.archive]
+repo = 'rutar-academic/rutar.org'
+folder = 'static'
+branch = 'master'
